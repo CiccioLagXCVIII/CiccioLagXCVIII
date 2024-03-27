@@ -104,7 +104,7 @@
 
 ###
 
-<div align="left">
+<div align="left" style="text-decoration: none;">
   <a style="text-decoration: none;" href="https://www.instagram.com/_francesco.98_">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" style="text-decoration: none;" width="70" height="50" alt="Instagram"/>
   </a>
@@ -115,10 +115,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" style="text-decoration: none;" width="70" height="50" alt="Discord"/>
   </a>
   <a style="text-decoration: none;" href="mailto:francescoloverde05@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="50" alt="Gmail"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" style="text-decoration: none;" width="70" height="50" alt="Gmail"/>
   </a>
   <a style="text-decoration: none;" href="https://www.linkedin.com/in/francesco-lo-verde">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50" alt="Linkedin"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" style="text-decoration: none;" width="70" height="50" alt="Linkedin"/>
   </a>
 </div>
 
