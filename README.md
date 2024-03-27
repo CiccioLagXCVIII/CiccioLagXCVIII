@@ -106,7 +106,7 @@
 
 <div align="left">
   <a style="text-decoration: none;" href="https://www.instagram.com/_francesco.98_">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="50" alt="Instagram"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" style="text-decoration: none;" width="70" height="50" alt="Instagram"/>
   </a>
   <a style="text-decoration: none;" href="https://t.me/CiccioLagXCVIII">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="70" height="50" alt="Telegram"/>
