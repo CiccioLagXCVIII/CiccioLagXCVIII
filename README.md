@@ -107,16 +107,16 @@
 <div align="left">
   <a href="https://www.instagram.com/_francesco.98_">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="50" alt="instagram logo"/>
-  </a>
+  </a>\
   <a href="https://t.me/CiccioLagXCVIII">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="70" height="50" alt="telegram logo"  />
-  </a>
+  </a>\
   <a href="https://discord.com/users/766028796204941342">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="70" height="50" alt="discord logo"  />
-  </a>
+  </a>\
   <a href="mailto:francescoloverde05@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="50" alt="gmail logo"  />
-  </a>
+  </a>\
   <a href="https://www.linkedin.com/in/francesco-lo-verde">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50" alt="linkedin logo"  />
   </a>
