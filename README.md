@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Ecco la traduzione in inglese del tuo messaggio:<br><br>"My next 'little' goal is to conquer the world of artificial intelligence! 🫡 Who knows, maybe with a master's degree 🎓... just to add a bit more 'challenge' to my routine. Soon, my laptop could be my best friend... or my archenemy! 🤔💻 Stay tuned for the upcoming adventures! ✨"</p>
+<p align="left"><br><br>"My next 'little' goal is to conquer the world of artificial intelligence! 🫡 Who knows, maybe with a master's degree 🎓... just to add a bit more 'challenge' to my routine. Soon, my laptop could be my best friend... or my archenemy! 🤔💻 Stay tuned for the upcoming adventures! ✨"</p>
 
 ###
 
