@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">My next 'little' goal is to conquer the world of artificial intelligence! 🫡 Who knows, maybe with a master's degree 🎓... just to add a bit more 'challenge' to my routine. Soon, my laptop could be my best friend... or my archenemy! 🤔💻 Stay tuned for the upcoming adventures! ✨</p>
+<p align="left">Ecco la traduzione in inglese del tuo messaggio:<br><br>"My next 'little' goal is to conquer the world of artificial intelligence! 🫡 Who knows, maybe with a master's degree 🎓... just to add a bit more 'challenge' to my routine. Soon, my laptop could be my best friend... or my archenemy! 🤔💻 Stay tuned for the upcoming adventures! ✨"</p>
 
 ###
 
@@ -39,21 +39,21 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML"/>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="Bootstrap"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="Javascript"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50" alt="jquery logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50" alt="JQuery"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="NMySQL"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"  />
 </div>
 
 ###
@@ -63,15 +63,15 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="AngularJS"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="50" alt="nginx logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="50" alt="NGinx"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="50" alt="graphql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="50" alt="GraphQL"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AmazonWebServices"  />
 </div>
 
 ###
@@ -81,21 +81,21 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=autocad" height="50" alt="autocad logo"  />
+  <img src="https://skillicons.dev/icons?i=autocad" height="50" alt="Autocad"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=sketchup" height="50" alt="sketch logo"  />
+  <img src="https://skillicons.dev/icons?i=sketchup" height="50" alt="Sketch"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=matlab" height="50" alt="matlab logo"  />
+  <img src="https://skillicons.dev/icons?i=matlab" height="50" alt="Matlab"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=md" height="50" alt="markdown logo"  />
+  <img src="https://skillicons.dev/icons?i=md" height="50" alt="Markdown"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux"  />
 </div>
 
 ###
@@ -106,21 +106,20 @@
 
 <div align="left">
   <a href="https://www.instagram.com/_francesco.98_" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="50" alt="instagram logo"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="50" alt="Instagram"/>
   </a>
   <a href="https://t.me/CiccioLagXCVIII" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="70" height="50" alt="telegram logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="70" height="50" alt="Telegram" />
   </a>
   <a href="https://discord.com/users/766028796204941342" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="70" height="50" alt="discord logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="70" height="50" alt="Discord" />
   </a>
   <a href="mailto:francescoloverde05@gmail.com" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="50" alt="gmail logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="50" alt="GMail" />
   </a>
   <a href="https://www.linkedin.com/in/francesco-lo-verde" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50" alt="LinkedIn" />
   </a>
 </div>
-
 
 ###
