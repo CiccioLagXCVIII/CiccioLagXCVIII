@@ -108,7 +108,7 @@
   <a href="https://www.instagram.com/_francesco.98_">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="50" alt="instagram logo"/>
   </a>
-  <a href="t.me/CiccioLagXCVIII">
+  <a href="https://t.me/CiccioLagXCVIII">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="70" height="50" alt="telegram logo"  />
   </a>
   <a href="https://discord.com/users/766028796204941342">
