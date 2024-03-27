@@ -1,3 +1,9 @@
+<style>
+  .no-underline {
+    text-decoration: none;
+  }
+</style>
+
 <h1 align="left">Hey 👋! What's up?</h1>
 
 ###
@@ -105,23 +111,22 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/_francesco.98_" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="50" alt="instagram logo" style="text-decoration: none; border: none;"/>
+  <a href="https://www.instagram.com/_francesco.98_" class="no-underline">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="50" alt="instagram logo" class="no-underline"/>
   </a>
-  <a href="https://t.me/CiccioLagXCVIII" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="70" height="50" alt="telegram logo"  style="text-decoration: none; border: none;" />
+  <a href="https://t.me/CiccioLagXCVIII" class="no-underline">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="70" height="50" alt="telegram logo" class="no-underline" />
   </a>
-  <a href="https://discord.com/users/766028796204941342" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="70" height="50" alt="discord logo" style="text-decoration: none; border: none;" />
+  <a href="https://discord.com/users/766028796204941342" class="no-underline">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="70" height="50" alt="discord logo" class="no-underline" />
   </a>
-  <a href="mailto:francescoloverde05@gmail.com" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="50" alt="gmail logo"  style="text-decoration: none; border: none;" />
+  <a href="mailto:francescoloverde05@gmail.com" class="no-underline">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="50" alt="gmail logo" class="no-underline" />
   </a>
-  <a href="https://www.linkedin.com/in/francesco-lo-verde" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50" alt="linkedin logo"  style="text-decoration: none; border: none;" />
+  <a href="https://www.linkedin.com/in/francesco-lo-verde" class="no-underline">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50" alt="linkedin logo" class="no-underline" />
   </a>
 </div>
-
 
 
 ###
