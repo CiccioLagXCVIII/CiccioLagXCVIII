@@ -109,10 +109,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" style="text-decoration: none;" width="70" height="50" alt="Instagram"/>
   </a>
   <a style="text-decoration: none;" href="https://t.me/CiccioLagXCVIII">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="70" height="50" alt="Telegram"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" style="text-decoration: none;" width="70" height="50" alt="Telegram"/>
   </a>
   <a style="text-decoration: none;" href="https://discord.com/users/766028796204941342">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="70" height="50" alt="Discord"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" style="text-decoration: none;" width="70" height="50" alt="Discord"/>
   </a>
   <a style="text-decoration: none;" href="mailto:francescoloverde05@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="50" alt="Gmail"/>
